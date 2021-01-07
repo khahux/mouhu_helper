@@ -1,0 +1,17 @@
+{
+    "name": "某乎助手",
+    "description": "关闭某乎登陆模态框",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "icons": {
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "content_scripts": 
+	[
+		{
+			"matches": ["https://www.zhihu.com/*"],
+			"js": ["content-script.js"]
+		}
+	]
+}
