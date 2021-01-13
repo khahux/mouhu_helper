@@ -1,0 +1,1 @@
+[https://chrome.google.com/webstore/detail/%E6%9F%90%E4%B9%8E%E5%8A%A9%E6%89%8B/hlbefnfheejblngppkdocekcfaiigbob](https://chrome.google.com/webstore/detail/%E6%9F%90%E4%B9%8E%E5%8A%A9%E6%89%8B/hlbefnfheejblngppkdocekcfaiigbob)
